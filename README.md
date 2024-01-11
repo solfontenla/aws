@@ -40,6 +40,6 @@ $ docker run app
 ```
 
 ## References
-[Rust documentation](https://doc.rust-lang.org/book/)
-[Build docker image with Rust](https://docs.docker.com/language/rust/develop/)
-[Reqwest crate](https://docs.rs/reqwest/latest/reqwest/)
+- [Rust documentation](https://doc.rust-lang.org/book/)
+- [Build docker image with Rust](https://docs.docker.com/language/rust/develop/)
+- [Reqwest crate](https://docs.rs/reqwest/latest/reqwest/)
